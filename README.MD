@@ -13,7 +13,7 @@
 ## Step 3: Cloning this repository
 
 ```
-https://github.com/yashdkadam/Raykor.git
+git clone https://github.com/yashdkadam/Raykor.git
 ```
 ## Step 4: Find file from file jupyter file explorer
 
